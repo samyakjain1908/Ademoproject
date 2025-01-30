@@ -72,19 +72,19 @@ export default function ValentineMessage() {
                 whileHover={{ scale: 1.05 }}
                 className="w-1/3 aspect-square relative rounded-lg overflow-hidden shadow-lg"
               >
-                <Image src="/couple-photo.jpg" alt="Our special moment" layout="fill" objectFit="cover" />
+                <Image src="/Photo1.jpg" alt="Our special moment" layout="fill" objectFit="cover" />
               </motion.div>
               <motion.div
                 whileHover={{ scale: 1.05 }}
                 className="w-1/3 aspect-square relative rounded-lg overflow-hidden shadow-lg"
               >
-                <Image src="/placeholder.svg?height=300&width=300" alt="Our memory 2" layout="fill" objectFit="cover" />
+                <Image src="/Photo2.jpg?height=300&width=300" alt="Our memory 2" layout="fill" objectFit="cover" />
               </motion.div>
               <motion.div
                 whileHover={{ scale: 1.05 }}
                 className="w-1/3 aspect-square relative rounded-lg overflow-hidden shadow-lg"
               >
-                <Image src="/placeholder.svg?height=300&width=300" alt="Our memory 3" layout="fill" objectFit="cover" />
+                <Image src="/Photo3.jpg?height=300&width=300" alt="Our memory 3" layout="fill" objectFit="cover" />
               </motion.div>
             </div>
             <div className="text-center space-y-6">
