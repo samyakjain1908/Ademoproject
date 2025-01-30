@@ -65,7 +65,7 @@ export default function ValentineMessage() {
                 me in my happiest moments.
               </p>
               <p>Every day with you is a blessing, and I'm grateful for your presence in my life.</p>
-              <p>Mai hu tere saath hamesha !!</p>
+              <p>Mai hu tere saath hamesha !! 💗💗</p>
             </div>
             <div className="flex justify-center space-x-4 mb-8">
               <motion.div
